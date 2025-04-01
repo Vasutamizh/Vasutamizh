@@ -37,6 +37,16 @@ Linux user, love to explore the Linux(the architecture)
 📌 Check out my repositories for more! 🔗 GitHub Repos
 
 
+### 📝 My Dev.to Blog Posts
+<p align="center">
+  <a href="https://dev.to/vasutamil19/db-discussion-3an1"><img src="https://img.shields.io/badge/📜%20Post%201-Read%20More-blue?style=for-the-badge" /></a>
+  <a href="https://dev.to/vasutamil19/my-first-open-source-meeting-3m5b"><img src="https://img.shields.io/badge/📜%20Post%202-Read%20More-blue?style=for-the-badge" /></a>
+  <a href="https://dev.to/vasutamil19/responsive-navbar-506n"><img src="https://img.shields.io/badge/📜%20Post%203-Read%20More-blue?style=for-the-badge" /></a>
+</p>
+
+📌 *More articles at* [Vasudevan' Dev.to](https://dev.to/vasutamil19)
+
+
 📊 GitHub Stats
 
 <p align="center">
