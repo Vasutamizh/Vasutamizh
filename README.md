@@ -41,6 +41,8 @@ Linux user, love to explore the Linux(the architecture)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vasutamizh&show_icons=true&theme=radical" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasutamizh&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vasutamizh&theme=radical" alt="GitHub Profile Summary" />
 </p>
