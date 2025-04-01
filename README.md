@@ -12,11 +12,8 @@
 
 🏆 Problem-solving enthusiast, exploring Data Structures & Algorithms
 
-🌱 Linux user, optimizing development efficiency
+Linux user, love to explore the Linux(the architecture)
 
-
-
----
 
 🛠 Tech Stack & Tools
 
@@ -40,22 +37,19 @@
 📌 Check out my repositories for more! 🔗 GitHub Repos
 
 
----
-
 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vasudevant&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudevant&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasudevant&theme=radical" alt="GitHub Profile Summary" />
 </p>
----
+
 
 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:vasudevantmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vasudevan19"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
