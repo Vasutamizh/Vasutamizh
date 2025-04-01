@@ -20,7 +20,7 @@
 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,django,spring,postgresql,mysql,react,tailwind,html,css,js" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=java,python,django,postgresql,mysql,react,tailwind,html,css,js" alt="Tech Stack"/>
 </p>
 ---
 
