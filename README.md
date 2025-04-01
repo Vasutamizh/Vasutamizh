@@ -3,13 +3,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A93F&width=550&lines=Full+Stack+Developer+%7C+Java+%7C+Python+%7C+Django+%7C+Spring+Boot;Passionate+about+Scalable+Web+Applications;Exploring+React%2C+TailwindCSS%2C+and+PostgreSQL" alt="Typing Animation" />
 </p> About Me
 
-Full Stack Developer | Java | Python | Django | Spring Boot
+📚Full Stack Developer | Java | Python | Django | Spring Boot
 
 Currently learning: Tailwind CSS, PostgreSQL, and React Navigation
 
 Passionate about building scalable web applications
 
-Problem-solving enthusiast, exploring Data Structures & Algorithms
+🎯Problem-solving enthusiast, exploring Data Structures & Algorithms
 
 Linux user, optimizing development efficiency
 
