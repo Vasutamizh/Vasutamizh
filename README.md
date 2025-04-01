@@ -40,9 +40,9 @@ Linux user, love to explore the Linux(the architecture)
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasudevant&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasutamizh&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasudevant&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vasutamizh&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 
